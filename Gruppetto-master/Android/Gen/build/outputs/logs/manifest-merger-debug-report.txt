@@ -1,0 +1,497 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1-8310
+INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1-8310
+INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1-8310
+INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1-8310
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c716c24a7001ea95ee8036f71d9612df\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\0cba3aecdfa305b8c8118e65d4a62a9a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5fe63cb6502c6bccffc473980721a48c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fccaa1cf697fd34fed694b3d4c70dbab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4f2cb00cee76917d31bd8c183607bb78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2c069577f9d7a3ed2a9ab70160531ec0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5e2842a47d0973294fe267a8af71574e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c3286dcf29fb2107beb727fe0e40e602\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e70f5108bd241b6886aa541c685f3c7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\136e00f6376ac7a01d1ca344ec2129a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\880f04855e685878dc1cfed2cd548649\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c4b70b5c05a55c09699c8b0fa3eb96b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fae25d58c235cdcca3a89af0f4c4d4cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\982e12cd2d6d4851e4c3be83e9277f31\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dee6a80388c0faf58d304e167938688f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e36ab7a3bc96b86c86e6cc67e097473f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c27c81b666cddf4f6200de11dd2c33a5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1-8310
+INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1-8310
+INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1-8310
+	package
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:70-102
+		INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:103-133
+		INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:134-159
+		INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:160-190
+application
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:191-7108
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c716c24a7001ea95ee8036f71d9612df\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c716c24a7001ea95ee8036f71d9612df\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\0cba3aecdfa305b8c8118e65d4a62a9a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\0cba3aecdfa305b8c8118e65d4a62a9a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5fe63cb6502c6bccffc473980721a48c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5fe63cb6502c6bccffc473980721a48c\AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:266-298
+	android:resizeableActivity
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:403-436
+	android:largeHeap
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:377-401
+	android:icon
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:299-376
+	android:usesCleartextTraffic
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:437-472
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:204-265
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:473-591
+	android:value
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:534-589
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:484-533
+activity#com.masociete.gruppeto.wdgen.GWDPGruppeto$WDLanceur
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:591-1003
+	android:label
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:646-678
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:748-850
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:679-747
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:601-645
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:851-992
+action#android.intent.action.MAIN
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:866-917
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:874-915
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:917-976
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:927-974
+activity#com.masociete.gruppeto.wdgen.GWDFRecherche_Profil$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1003-1251
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1214-1249
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1074-1176
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1177-1213
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1013-1073
+activity#com.masociete.gruppeto.wdgen.GWDFFen_LEvent$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1251-1493
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1456-1491
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1316-1418
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1419-1455
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1261-1315
+activity#com.masociete.gruppeto.wdgen.GWDFCreer_un_evenement$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1493-1743
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1706-1741
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1566-1668
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1669-1705
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1503-1565
+activity#com.masociete.gruppeto.wdgen.GWDFFEN_Login$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1743-1984
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1947-1982
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1807-1909
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1910-1946
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1753-1806
+activity#com.masociete.gruppeto.wdgen.GWDFFEN_LLieu$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1984-2225
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2188-2223
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2048-2150
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2151-2187
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:1994-2047
+activity#com.masociete.gruppeto.wdgen.GWDFFEN_PEvent$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2225-2467
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2430-2465
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2290-2392
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2393-2429
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2235-2289
+activity#com.masociete.gruppeto.wdgen.GWDFListe_Event$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2467-2710
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2673-2708
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2533-2635
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2636-2672
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2477-2532
+activity#com.masociete.gruppeto.wdgen.GWDFMenu$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2710-2946
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2909-2944
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2769-2871
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2872-2908
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2720-2768
+activity#com.masociete.gruppeto.wdgen.GWDFFen_Messages$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2946-3190
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3153-3188
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3013-3115
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3116-3152
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:2956-3012
+activity#com.masociete.gruppeto.wdgen.GWDFmodif_profil$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3190-3434
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3397-3432
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3257-3359
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3360-3396
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3200-3256
+activity#com.masociete.gruppeto.wdgen.GWDFMenu_Modo$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3434-3675
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3638-3673
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3498-3600
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3601-3637
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3444-3497
+activity#com.masociete.gruppeto.wdgen.GWDFFen_Visit$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3675-3916
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3879-3914
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3739-3841
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3842-3878
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3685-3738
+activity#com.masociete.gruppeto.wdgen.GWDFFEN_L_Util$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3916-4158
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4121-4156
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3981-4083
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4084-4120
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:3926-3980
+activity#com.masociete.gruppeto.wdgen.GWDFProfil$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4158-4396
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4359-4394
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4219-4321
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4322-4358
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4168-4218
+activity#com.masociete.gruppeto.wdgen.GWDFFen_LieuUtil$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4396-4640
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4603-4638
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4463-4565
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4566-4602
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4406-4462
+activity#com.masociete.gruppeto.wdgen.GWDFInscription$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4640-4883
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4846-4881
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4706-4808
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4809-4845
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4650-4705
+activity#com.masociete.gruppeto.wdgen.GWDFFen_carte$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4883-5124
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5087-5122
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4947-5049
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5050-5086
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:4893-4946
+activity#com.masociete.gruppeto.wdgen.GWDFFen_LieuUtil2$WDActiviteFenetre
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5124-5369
+	android:hardwareAccelerated
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5332-5367
+	android:configChanges
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5192-5294
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5295-5331
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5134-5191
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5369-5447
+	android:required
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5421-5445
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5383-5420
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5447-5635
+	xmlns:android
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5457-5515
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5585-5633
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5516-5584
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5635-5835
+	xmlns:android
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5645-5703
+	android:theme
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5777-5833
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5704-5776
+activity#fr.pcsoft.wdjava.net.oauth2.WDOAuth2Manager$OAuthActivity
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5835-5978
+	xmlns:android
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5845-5903
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5904-5976
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5978-6322
+	android:label
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6109-6141
+	xmlns:android
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:5988-6046
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6047-6108
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6142-6226
+action#android.intent.action.SEARCH
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6157-6210
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6165-6208
+meta-data#android.app.searchable
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6226-6311
+	android:resource
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6275-6309
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6237-6274
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6322-6523
+	android:authorities
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6477-6521
+	android:exported
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6452-6476
+	xmlns:android
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6332-6390
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6391-6451
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6523-6593
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6532-6591
+meta-data#fr.pcsoft.first_window_name
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6593-6674
+	android:value
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6647-6672
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6604-6646
+meta-data#fr.pcsoft.first_window_name_tablet
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6674-6753
+	android:value
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6735-6751
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6685-6734
+meta-data#fr.pcsoft.splash_orientation_phone
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6753-6833
+	android:value
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6814-6831
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6764-6813
+meta-data#fr.pcsoft.splash_orientation_tablet
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6833-6914
+	android:value
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6895-6912
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6844-6894
+meta-data#fr.pcsoft.multidex
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6914-6982
+	android:value
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6959-6980
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6925-6958
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6982-7094
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5fe63cb6502c6bccffc473980721a48c\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5fe63cb6502c6bccffc473980721a48c\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7039-7092
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:6993-7038
+uses-sdk
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7108-7176
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c716c24a7001ea95ee8036f71d9612df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c716c24a7001ea95ee8036f71d9612df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\0cba3aecdfa305b8c8118e65d4a62a9a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\0cba3aecdfa305b8c8118e65d4a62a9a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5fe63cb6502c6bccffc473980721a48c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5fe63cb6502c6bccffc473980721a48c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fccaa1cf697fd34fed694b3d4c70dbab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fccaa1cf697fd34fed694b3d4c70dbab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4f2cb00cee76917d31bd8c183607bb78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4f2cb00cee76917d31bd8c183607bb78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2c069577f9d7a3ed2a9ab70160531ec0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2c069577f9d7a3ed2a9ab70160531ec0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5e2842a47d0973294fe267a8af71574e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5e2842a47d0973294fe267a8af71574e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c3286dcf29fb2107beb727fe0e40e602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c3286dcf29fb2107beb727fe0e40e602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e70f5108bd241b6886aa541c685f3c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e70f5108bd241b6886aa541c685f3c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\136e00f6376ac7a01d1ca344ec2129a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\136e00f6376ac7a01d1ca344ec2129a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\880f04855e685878dc1cfed2cd548649\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\880f04855e685878dc1cfed2cd548649\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c4b70b5c05a55c09699c8b0fa3eb96b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c4b70b5c05a55c09699c8b0fa3eb96b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fae25d58c235cdcca3a89af0f4c4d4cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fae25d58c235cdcca3a89af0f4c4d4cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\982e12cd2d6d4851e4c3be83e9277f31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\982e12cd2d6d4851e4c3be83e9277f31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dee6a80388c0faf58d304e167938688f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dee6a80388c0faf58d304e167938688f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e36ab7a3bc96b86c86e6cc67e097473f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e36ab7a3bc96b86c86e6cc67e097473f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c27c81b666cddf4f6200de11dd2c33a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c27c81b666cddf4f6200de11dd2c33a5\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7145-7174
+	android:minSdkVersion
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7118-7144
+supports-screens
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7176-7335
+	android:largeScreens
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7251-7278
+	android:smallScreens
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7194-7221
+	android:normalScreens
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7222-7250
+	android:xlargeScreens
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7279-7307
+	android:anyDensity
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7308-7333
+permission#com.masociete.gruppeto.permission.MAPS_RECEIVE
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7335-7446
+	android:protectionLevel
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7409-7444
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7347-7408
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7446-7521
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7463-7519
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7521-7594
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7538-7592
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7594-7669
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7611-7667
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7669-7742
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7686-7740
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7742-7803
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7759-7801
+uses-permission#com.masociete.gruppeto.permission.MAPS_RECEIVE
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7803-7883
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7820-7881
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7883-7975
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7900-7973
+uses-feature#android.hardware.location.network
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7975-8063
+	android:required
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8038-8061
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:7989-8037
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8063-8147
+	android:required
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8122-8145
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8077-8121
+uses-feature#android.hardware.location
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8147-8227
+	android:required
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8202-8225
+	android:name
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8161-8201
+uses-feature#0x00020000
+ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8227-8299
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\487e11a4371bf0cd61430b41c18df3bf\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8241-8273
+	android:required
+		ADDED from C:\Users\maxri\Desktop\Gruppetto-master\Android\Gen\AndroidManifest.xml:2:8274-8297
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c716c24a7001ea95ee8036f71d9612df\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c716c24a7001ea95ee8036f71d9612df\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c716c24a7001ea95ee8036f71d9612df\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\maxri\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c716c24a7001ea95ee8036f71d9612df\AndroidManifest.xml:24:13-79
